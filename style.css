@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 65.5%;
+}
+.titulo{
+    position: relative;
+    margin-left:55px;
+    padding-left: 40px;
+    background-color: gold;
+    width: 250px;
+    
+}
+.seccion {
+    position: relative;
+    border: 2px black solid;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(204, 230, 230);
+}
+.texto{
+    padding: 10px ;
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+}
+
+#Nombre {
+    padding-top: 25px;
+    font-size: 2.4rem;
+    color: white;
+}
+.pie{
+    background-color: black;
+    height: 100px;
+}
